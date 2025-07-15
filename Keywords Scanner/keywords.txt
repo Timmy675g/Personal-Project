@@ -1,0 +1,10 @@
+#This keywords is to make sure you got a specific keywords in your resume, just incase it got slipped out
+#Just replace these words with your own words
+
+python
+api
+flask
+git
+docker
+linux
+aws
